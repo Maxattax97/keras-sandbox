@@ -86,7 +86,7 @@ mutagen==1.42.0
 numpy==1.17.2
 packaging==19.2
 pandas==0.25.1
-paramiko==2.6.0
+paramiko==2.10.1
 parso==0.5.1
 pep517==0.6.0
 pep8==1.7.1
