@@ -28,7 +28,7 @@ cryptography==3.3.2
 cupshelpers==1.0
 cycler==0.10.0
 decorator==4.4.0
-deluge==2.0.3
+deluge==2.1.0
 devedeng==4.15.0
 dill==0.3.1.1
 distlib==0.2.9
